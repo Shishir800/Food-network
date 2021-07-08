@@ -33,3 +33,21 @@ body{
     padding-left: 400px;
     padding-right: 400px;
 }
+.Receipe-portion{
+    display: flex;
+ padding-left: 80px;
+    border: white solid 40px;
+    
+}
+.Receipe-portion img{
+    width: 400px;
+    height: 300px;
+    
+   
+}
+.border{
+    border: solid 5px rgb(214, 199, 199);
+
+border-radius: 40px;
+margin:10px;
+}
