@@ -38,6 +38,7 @@ body{
  padding-left: 80px;
     border: white solid 40px;
     
+    
 }
 .Receipe-portion img{
     width: 400px;
@@ -78,4 +79,11 @@ margin:10px;
 .footer{
     text-align: center;
     color: salmon;
+}
+#first-new{
+    background-image: url(images/shapes/Frame\ 59.jpg);
+    background-size: cover;
+
+    
+    
 }
