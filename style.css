@@ -1,0 +1,27 @@
+body{
+    font-family: 'Otomanopee One', sans-serif;
+    margin: 0%;
+}
+#portion-color{
+    color: coral;
+}
+.styleing-chart{
+    text-decoration: none;
+    background-image: linear-gradient(40deg, orange,crimson);
+    padding: 10px 20px;
+    border-radius: 40px;
+   
+}
+#gap{
+    margin-bottom: 40px;
+}
+.First-portion{
+    display: flex;
+    padding: 100px;
+}
+.height-wihdth{
+    width: 50%;
+}
+.height-wihdth img{
+    width: 60%;
+}
