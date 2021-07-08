@@ -26,3 +26,10 @@ body{
 .height-wihdth img{
     width: 60%;
 }
+#diet-images{
+    padding-left: 700px;
+}
+#diet-par{
+    padding-left: 400px;
+    padding-right: 400px;
+}
