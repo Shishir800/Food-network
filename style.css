@@ -12,12 +12,13 @@ body{
     border-radius: 40px;
    
 }
-#gap{
+.gap{
     margin-bottom: 40px;
 }
 .First-portion{
     display: flex;
     padding: 100px;
+  
 }
 .height-wihdth{
     width: 50%;
